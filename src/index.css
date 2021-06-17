@@ -1,0 +1,37 @@
+.rojos,
+.borrar {
+  cursor: pointer;
+}
+li {
+  width: 50%;
+  margin: 15px;
+}
+.linea {
+  display: inline;
+}
+.visible {
+  display: none;
+}
+
+.novisible {
+  cursor: pointer;
+  display: flex;
+  width: 200px;
+  margin: 0 auto;
+  justify-content: space-between;
+}
+
+p {
+  font-size: x-large;
+}
+
+.containerAgain {
+  display: flex;
+  width: 200px;
+  margin: 0 auto;
+  justify-content: space-between;
+}
+h1 {
+  display: flex;
+  justify-content: center;
+}
